@@ -35,7 +35,9 @@ Search for **ARCANEO – DnD5e Character Sheet Exporter** in the Foundry module 
 
 Paste the module manifest URL into Foundry's **Install Module** window.
 
-(manifest link here)
+Install using the Manifest URL:
+
+https://raw.githubusercontent.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/main/module.json
 
 
 ---
