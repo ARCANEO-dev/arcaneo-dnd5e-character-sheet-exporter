@@ -1,0 +1,9 @@
+Copyright © 2026 ARCANEO
+
+All rights reserved.
+
+This software may be installed and used freely within Foundry Virtual Tabletop.
+
+Redistribution, modification, or commercial use of this software or its code is not permitted without explicit permission from ARCANEO.
+
+For licensing inquiries please contact the project author.

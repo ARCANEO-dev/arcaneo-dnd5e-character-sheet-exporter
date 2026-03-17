@@ -1,0 +1,39 @@
+{
+  "id": "arcaneo-dnd5e-sheet-exporter",
+  "title": "ARCANEO - DnD5e Character Sheet Exporter",
+  "description": "Exports a DnD5e character sheet to a standalone HTML file with Foundry-inspired tabs.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "ARCANEO"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.2.5",
+          "verified": "5.2.5"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "icon": "assets/arcaneo-icon.png",
+  "manifest": "",
+  "download": "",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "readme": "README.md"
+}

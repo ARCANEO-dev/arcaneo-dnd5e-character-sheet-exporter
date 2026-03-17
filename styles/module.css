@@ -1,0 +1,3 @@
+.application .window-header .header-control[data-action="arcaneo-dnd5e-sheet-exporter-export-html"] i {
+  color: var(--color-text-light-highlight, #f0d9aa);
+}
