@@ -12,10 +12,9 @@ The exported sheet keeps the character information clear, readable, and easy to 
 ## Features
 
 - Export a complete **D&D 5e character sheet** from Foundry VTT  
-- Clean **standalone HTML document**  
-- Optimized for **printing**  
+- Clean **standalone HTML sheet for easy reference outside the VTT** 
 - No external dependencies required to view the sheet  
-- Works with the **D&D 5e system for Foundry VTT**
+- Works with the **D&D5e system for Foundry VTT**
 
 ---
 
