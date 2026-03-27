@@ -88,7 +88,7 @@ If you enjoy using this module and want to support future development, consider 
 **Support the project on Patreon:**  
 [https://www.patreon.com/c/ARCANEO](https://www.patreon.com/c/ARCANEO)
 
-Your support helps maintain and improve the module. Thou hast my thanks.
+Your support helps maintain and improve the module. You have my thanks.
 
 ---
 
