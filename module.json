@@ -2,8 +2,9 @@
   "id": "arcaneo-dnd5e-character-sheet-exporter",
   "title": "ARCANEO – DnD5e Character Sheet Exporter",
   "description": "Exports a DnD5e character sheet from Foundry VTT to a standalone format for easy reference outside the VTT.",
-  "version": "1.0.1",
-  "authors": [
+  "version": "1.0.2",
+"download": "https://github.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/releases/download/v1.0.2/arcaneo-dnd5e-character-sheet-exporter-v1.0.2.zip",
+"authors": [
   {
     "name": "ARCANEO",
     "url": "https://patreon.com/arcaneo"
@@ -32,8 +33,7 @@
     "styles/module.css"
   ],
 "icon": "assets/arcaneo-icon.png",
-"manifest": "https://raw.githubusercontent.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/main/module.json",
-"download": "https://github.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/releases/download/v1.0.1/arcaneo-dnd5e-character-sheet-exporter-v1.0.1.zip",
+"manifest": "https://raw.githubusercontent.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/v1.0.2/module.json",
 "license": "SEE LICENSE IN LICENSE.txt",
 "readme": "https://github.com/ARCANEO-dev/arcaneo-dnd5e-character-sheet-exporter/blob/main/README.md",
 
